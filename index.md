@@ -4,7 +4,7 @@
 
 > I am an 2nd year undergraduate computer science major currently researching in privacy and security!
 
-_ _Here is my LinkedIn! [Let's connect!](https://www.linkedin.com/in/jennifer-forsyth-976724263/)_ _
+_Here is my LinkedIn! [Let's connect!](https://www.linkedin.com/in/jennifer-forsyth-976724263/)_
 
 ### What are my interests?
 
