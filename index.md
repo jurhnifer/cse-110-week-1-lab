@@ -30,11 +30,11 @@ I like to video edit, code, hangout with friends, and rock climb!
 - [ ] Find something new to do! 
 - [ ] Pass all my classes!
 
-## Links to the other headings above!
+## Links to the ot:her headings above!
 
 Link to Who am I section: [Link Text](#who-am-i)
 
 Link to What are my interests?:  [Link Text](#what-are-my-interests)
 
 
-[Here are some photos that kind of sum up an about me](cse-110-week-1-lab\pictures.md)
+[Here are some photos that kind of sum up an about me](pictures.md)
