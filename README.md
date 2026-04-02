@@ -1,2 +1,2 @@
 # cse-110-week-1-lab
-My favorite programming language is Python
+Here is the URL of my published site: https://jurhnifer.github.io/cse-110-week-1-lab/
